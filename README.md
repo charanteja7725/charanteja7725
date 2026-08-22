@@ -8,6 +8,16 @@ I’m a developer who is most interested in one question: <strong>what real prob
 I enjoy understanding practical problems, identifying where users struggle, and turning those problems into working software. I care about building useful systems, learning from feedback, and improving an idea until it solves the problem more clearly.
 </p>
 
+<p align="center">
+  <a href="https://portfolio-iota-woad-90.vercel.app/#home"><strong>🌐 Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/charanteja-ravuri-419400380/"><strong>💼 LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://agro-connect2-0-iiq5.vercel.app/"><strong>🌾 AgroConnect Live</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://rangam-saree-silks.vercel.app/"><strong>🛍️ Rangam Saree Silks Live</strong></a>
+</p>
+
 ---
 
 ## What Drives My Work
@@ -45,7 +55,30 @@ Other areas I worked on include:
 
 **Tech used:** React, Vite, Node.js, Express, MongoDB, Mongoose, Socket.IO, Cloudinary, GitHub Actions, Vercel, Render
 
-[View AgroConnect 2.0 →](https://github.com/charanteja7725/AgroConnect2.0)
+[🚀 Live Project](https://agro-connect2-0-iiq5.vercel.app/) · [💻 Repository](https://github.com/charanteja7725/AgroConnect2.0)
+
+---
+
+### 🛍️ Rangam Saree Silks — Full-Stack E-Commerce Project
+
+**Problem I focused on:** Building a usable online shopping platform for handloom and silk sarees requires more than a product page. Customers need a complete flow covering product discovery, user accounts, orders, media, and payments.
+
+I built and deployed **Rangam Saree Silks**, an AI-based online saree shopping platform with a React/Vite frontend and a Node.js/Express backend.
+
+Key areas of the project include:
+
+- React + Vite storefront and client-side routing
+- Node.js + Express REST backend
+- MongoDB and Mongoose for application data
+- JWT authentication and bcrypt password handling
+- Product and order management APIs
+- Cloudinary and Multer for media uploads
+- Razorpay payment integration
+- Vercel frontend deployment
+
+**Tech used:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, JWT, Cloudinary, Razorpay
+
+[🚀 Live Project](https://rangam-saree-silks.vercel.app/) · [💻 Repository](https://github.com/charanteja7725/rangam-saree-silks)
 
 ---
 
@@ -83,8 +116,11 @@ My long-term goal is to keep developing the technical depth needed to build soft
 
 ## Technologies I Work With
 
+**Programming & Problem Solving**  
+Java · DSA · Python
+
 **Frontend**  
-JavaScript · React · Next.js · Vite
+JavaScript · React · Next.js · Vite · Tailwind CSS
 
 **Backend**  
 Node.js · Express · REST APIs · Authentication · Real-time systems
@@ -99,13 +135,16 @@ Git · GitHub · GitHub Actions · Vercel · Render
 
 ## What I’m Looking For
 
-I’m interested in opportunities and collaborations where I can:
+I’m a second-year B.Tech CSE student in Kalvium’s Software Product Engineering program and I’m looking for a **paid software development internship** where I can work professionally, contribute to real products, strengthen my engineering skills, and learn from experienced teams.
 
-- Work on meaningful real-world problems
-- Strengthen my full-stack and backend engineering skills
-- Apply data and AI where they provide genuine value
-- Learn from strong engineering teams
-- Build products that are useful beyond the classroom
+---
+
+## Connect / Explore
+
+- 🌐 **Portfolio:** https://portfolio-iota-woad-90.vercel.app/#home
+- 💼 **LinkedIn:** https://www.linkedin.com/in/charanteja-ravuri-419400380/
+- 🌾 **AgroConnect 2.0:** https://agro-connect2-0-iiq5.vercel.app/
+- 🛍️ **Rangam Saree Silks:** https://rangam-saree-silks.vercel.app/
 
 ---
 
