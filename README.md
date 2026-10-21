@@ -4,7 +4,7 @@ Second-year B.Tech Computer Science and Engineering student in Kalvium's Softwar
 
 I build full-stack applications around practical user workflows. My project work includes REST APIs, MongoDB, authentication and permissions, real-time features, automated tests, and LLM integrations. I enjoy understanding the product flow, checking edge cases, and improving the implementation from feedback.
 
-[Portfolio](https://dev-profile-card-psi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/charanteja-ravuri-419400380/) · [Email](mailto:charantejaravuri40@gmail.com)
+[Portfolio](https://dev-profile-card-psi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/charanteja-ravuri-419400380/)
 
 ## Featured projects
 
