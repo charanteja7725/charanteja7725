@@ -10,10 +10,10 @@ I build full-stack applications around practical user workflows. My project work
 
 ### Heaven-Bus — real-time seat booking
 
-A full-stack booking system focused on temporary seat holds and consistent booking/payment state. It includes five-minute holds, MongoDB transaction-based seat allocation, payment verification, expiry and refund handling, and passenger/admin flows. Jarvis, its AI support assistant, uses Ollama to answer questions about trips, refunds, and support policies. The repository includes Vitest and Playwright tests for booking and payment edge cases.
+A full-stack booking system focused on temporary seat holds and consistent booking/payment state. It includes five-minute holds, MongoDB transaction-based seat allocation, payment verification, expiry and refund handling, and passenger/admin flows. Ask Jarvis, its Ollama-powered assistant, helps users find trips and the right contact number when they run into a problem. The repository includes Vitest and Playwright tests for booking and payment edge cases.
 
 **Stack:** React, TypeScript, Express, MongoDB, Socket.IO, Ollama, Vitest, Playwright  
-[Repository](https://github.com/charanteja7725/Heaven-Bus) · [Live app](https://heaven-bus-web.onrender.com/)
+[Repository](https://github.com/charanteja7725/Heaven-Bus) · [Live site](https://heaven-bus-web.onrender.com/)
 
 > Demonstration project: schedules are examples and tickets are not valid for travel. Payments are sandbox/test only.
 
@@ -22,7 +22,7 @@ A full-stack booking system focused on temporary seat holds and consistent booki
 A human-reviewed outreach workflow that turns supplied lead context into a fit assessment, an email draft, and two follow-ups. The source includes a Gemini API integration, structured output validation with Zod, provider error handling, and provider-stubbed backend tests.
 
 **Stack:** React, TypeScript, Vite, Node.js, Gemini API, Zod  
-[Repository](https://github.com/charanteja7725/LeadPilot-s) · [Live app](https://leadpilot-mauve.vercel.app/)
+[Repository](https://github.com/charanteja7725/LeadPilot-s) · [Live site](https://leadpilot-mauve.vercel.app/)
 
 ### AgroConnect 2.0 — agricultural marketplace
 
