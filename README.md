@@ -19,10 +19,10 @@ A booking-system project focused on temporary seat holds and consistent booking/
 
 ### LeadPilot — AI sales outreach assistant
 
-A human-reviewed outreach workflow that turns supplied lead context into a fit assessment, an email draft, and two follow-ups. The source includes a Gemini API integration, structured output validation with Zod, provider error handling, and provider-stubbed backend tests. The public link is a UI demo; live Gemini generation has not been independently verified.
+A human-reviewed outreach workflow that turns supplied lead context into a fit assessment, an email draft, and two follow-ups. The source includes a Gemini API integration, structured output validation with Zod, provider error handling, and provider-stubbed backend tests.
 
 **Stack:** React, TypeScript, Vite, Node.js, Gemini API, Zod  
-[Repository](https://github.com/charanteja7725/LeadPilot-s) · [UI demo](https://leadpilot-mauve.vercel.app/)
+[Repository](https://github.com/charanteja7725/LeadPilot-s) · [Live app](https://leadpilot-mauve.vercel.app/)
 
 ### AgroConnect 2.0 — agricultural marketplace
 
