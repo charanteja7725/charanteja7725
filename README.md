@@ -10,10 +10,10 @@ I build full-stack applications around practical user workflows. My project work
 
 ### Heaven-Bus — real-time seat booking
 
-A booking-system project focused on temporary seat holds and consistent booking/payment state. It includes five-minute holds, MongoDB transaction-based seat allocation, payment verification, expiry and refund handling, and passenger/admin flows. The repository includes Vitest and Playwright tests for booking and payment edge cases.
+A full-stack booking system focused on temporary seat holds and consistent booking/payment state. It includes five-minute holds, MongoDB transaction-based seat allocation, payment verification, expiry and refund handling, and passenger/admin flows. Jarvis, its AI support assistant, uses Ollama to answer questions about trips, refunds, and support policies. The repository includes Vitest and Playwright tests for booking and payment edge cases.
 
-**Stack:** React, TypeScript, Express, MongoDB, Socket.IO, Vitest, Playwright  
-[Repository](https://github.com/charanteja7725/Heaven-Bus)
+**Stack:** React, TypeScript, Express, MongoDB, Socket.IO, Ollama, Vitest, Playwright  
+[Repository](https://github.com/charanteja7725/Heaven-Bus) · [Live app](https://heaven-bus-web.onrender.com/)
 
 > Demonstration project: schedules are examples and tickets are not valid for travel. Payments are sandbox/test only.
 
@@ -43,7 +43,7 @@ A full-stack storefront with a catalogue, authentication, product and order APIs
 **Languages:** Java, Python, JavaScript, TypeScript  
 **Frontend:** React, Next.js, Vite, Tailwind CSS  
 **Backend and data:** Node.js, Express, REST APIs, MongoDB, Mongoose  
-**AI and testing:** Gemini API, prompt design, structured outputs, Zod, Vitest, Playwright  
+**AI and testing:** Ollama, Gemini API, prompt design, structured outputs, Zod, Vitest, Playwright  
 **Workflow:** Git, GitHub, GitHub Actions, Postman, Vercel, Render
 
 I am looking for a software engineering internship where I can contribute to product development, QA, and practical AI features while learning from an engineering team.
